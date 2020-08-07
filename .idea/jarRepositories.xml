@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="SSRD-bigdata-snapshot" />
+      <option name="name" value="SSRD-bigdata-snapshot" />
+      <option name="url" value="http://af.hikvision.com.cn:80/artifactory/SSRD-bigdata-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="SSRD-bigdata-release" />
+      <option name="name" value="SSRD-bigdata-release" />
+      <option name="url" value="http://af.hikvision.com.cn:80/artifactory/SSRD-bigdata-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fsdmdept-snapshot" />
+      <option name="name" value="fsdmdept-snapshot" />
+      <option name="url" value="http://af.hikvision.com.cn:80/artifactory/fsdmdept-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="DRPD-snapshot" />
+      <option name="name" value="DRPD-snapshot" />
+      <option name="url" value="http://af.hikvision.com.cn/artifactory/DRPD-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="SSRD-bigdata-thirdparty" />
+      <option name="name" value="SSRD-bigdata-thirdparty" />
+      <option name="url" value="http://af.hikvision.com.cn/artifactory/SSRD-bigdata-thirdparty" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fsdmdept-release" />
+      <option name="name" value="fsdmdept-release" />
+      <option name="url" value="http://af.hikvision.com.cn/artifactory/fsdmdept-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cominfo-3rd" />
+      <option name="name" value="cominfo-3rd" />
+      <option name="url" value="http://repos.corp.hzcominfo.com:6080/nexus/content/repositories/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="DRPD-release" />
+      <option name="name" value="DRPD-release" />
+      <option name="url" value="http://af.hikvision.com.cn/artifactory/DRPD-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-proxy-remote-cache" />
+      <option name="name" value="maven-proxy-remote-cache" />
+      <option name="url" value="http://af.hikvision.com.cn/artifactory/maven-proxy-remote-cache/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
